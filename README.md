@@ -65,5 +65,3 @@ Here are a couple of example routes for reading and setting a users status
 
 
 See [the Appcelerator documentation](http://cloud.appcelerator.com/docs/api/v1/statuses/info) for API details.
-
-Module created by [Ben Edmunds](http://benedmunds.com) for [DblTap Labs](http://dbltaplabs.com).
